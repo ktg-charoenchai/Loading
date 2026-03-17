@@ -32,4 +32,9 @@ body {
   font-weight:600;
   transition: opacity 0.5s;
 }
+@media only screen and (max-device-width:932px){
+  .container{
+    margin:20px;
+  }
+}
 
